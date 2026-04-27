@@ -1,11 +1,6 @@
 # SmartAlign-AI-Powered-Resume-Screener
 SmartAlign is an end-to-end NLP application designed to bridge the gap between job seekers and Applicant Tracking Systems (ATS). Built with Streamlit and Scikit-learn, the tool automates the comparison of professional resumes against job descriptions using advanced text vectorization.
 
-
-# SmartAlign: AI-Powered Resume Scorer 📄🤖
-
-SmartAlign is a Python-based NLP tool that helps job seekers optimize their resumes for Applicant Tracking Systems (ATS). It uses mathematical text analysis to compare a resume (PDF) against a Job Description to provide a percentage-based match score.
-
 ## 🚀 Features
 - **PDF Text Extraction:** Automatically parses text from uploaded resume files.
 - **NLP Preprocessing:** Cleans data by removing punctuation, converting to lowercase, and filtering out "stopwords" (common words like 'the', 'is', etc.).
